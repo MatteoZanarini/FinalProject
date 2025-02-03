@@ -16,9 +16,10 @@ In order to run the code it's necessary to:
 
 Install the packages through:
 ```bash
-pip install -r requirements.tx
+pip install -r requirements.txt
 ```
 
 ## Authors
 Matteo Zanarini - 15158357
-Peter Zeleňák - 
+
+Peter Zeleňák - 34867983
