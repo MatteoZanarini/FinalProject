@@ -8,6 +8,8 @@ This project aims to provide data-driven insights through the analysis of the da
 
 The main goals are to examine sales trends over time, compare sales across different regions, identify top-selling products and analyze the relationship between discounts and sales or profits using a scatter plot or linear regression model.
 
+Dataset source: https://www.kaggle.com/datasets/atharvaarya25/financials/data
+
 ## Methodology
 The approach for this analysis includes:
 - Data Preprocessing: Cleaning and structuring the data for analysis
@@ -16,11 +18,14 @@ The approach for this analysis includes:
 - Statistical Analysis & Modeling: Applying regression and correlation analyses to uncover insights
 
 ## Structure
-- `dataset`: https://www.kaggle.com/datasets/atharvaarya25/financials/data
-- `XXXXXX`: Jupyter file with the final information and analyses ----------------------------------------- modify
-- `XXXXXX`: Jupyter file with the rough analyses ----------------------------------------- modify
-- `README.md`: this file, whit the project information
-- `requirements.txt`: packages needed to run the "XXXXXXX" --------------------------- modify
+
+├── `README.md`                       this file, whit the project information
+├── `data`
+│   └── `XXXXXXXXXXXXXX`.csv          cleaned dataset, used for the presentation report
+├── `requirements.txt`                packages to have loaded
+└── `XXXXXX`
+    ├── ZZZZZZZZz                     Jupyter file with the rough analyses
+    ├── YYYYYYYY                      Jupyter file with the final information and analyses
 
 ## Requirements
 In order to run the code it's necessary to:
@@ -29,11 +34,10 @@ In order to run the code it's necessary to:
 
 Install the packages through:
 ```bash
-git clone https://github.com/MatteoZanarini/FinalProject.git       ----------------------- modify
+git clone https://github.com/MatteoZanarini/FinalProject.git
 cd FinalProject
 pip install -r requirements.txt
 ```
-is it possible to male a command to run automatically the final file??? -------------------------- cheack it
 
 ## Authors
 Matteo Zanarini - 15158357
