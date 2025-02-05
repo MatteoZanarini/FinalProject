@@ -20,12 +20,19 @@ The approach for this analysis includes:
 ## Structure
 
 ├── `README.md`                       this file, whit the project information
+
 ├── `data`
-│   └── `XXXXXXXXXXXXXX`.csv          cleaned dataset, used for the presentation report
+
+   └── `datasetCleaned.csv`           cleaned dataset, used for the presentation report
+
 ├── `requirements.txt`                packages to have loaded
-└── `XXXXXX`
-    ├── ZZZZZZZZz                     Jupyter file with the rough analyses
-    ├── YYYYYYYY                      Jupyter file with the final information and analyses
+
+└── `scripts`
+    
+   └── `roughAnalyses.ipynb`          Jupyter file with the rough analyses
+
+   └── `report.ipynb`                 Jupyter file with the final information and analyses
+
 
 ## Requirements
 In order to run the code it's necessary to:
