@@ -21,12 +21,11 @@ The approach for this analysis includes:
 
     .
     ├── README.md                       This file, whit the project information
-    ├── data
-    │   └── datasetCleaned.csv          Cleaned dataset, used for the presentation report
     ├── requirements.txt                Packages to have loaded
     └── scripts
         ├── roughAnalyses.ipynb         Jupyter file with the rough analyses
         ├── report.ipynb                Jupyter file with the final information and analyses
+        └── datasetCleaned.csv          Cleaned dataset, used for the presentation report
 
 ## Requirements
 In order to run the code it's necessary to:
