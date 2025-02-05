@@ -19,20 +19,14 @@ The approach for this analysis includes:
 
 ## Structure
 
-├── `README.md`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this file, whit the project information
-
-├── `data`
-
-&nbsp;&nbsp;&nbsp;└── `datasetCleaned.csv`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cleaned dataset, used for the presentation report
-
-├── `requirements.txt`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;packages to have loaded
-
-├── `scripts`
-    
-&nbsp;&nbsp;&nbsp;└── `roughAnalyses.ipynb`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jupyter file with the rough analyses
-
-&nbsp;&nbsp;&nbsp;└── `report.ipynb`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jupyter file with the final information and analyses
-
+    .
+    ├── README.md                       This file, whit the project information
+    ├── data
+    │   └── datasetCleaned.csv          Cleaned dataset, used for the presentation report
+    ├── requirements.txt                Packages to have loaded
+    └── scripts
+        ├── roughAnalyses.ipynb         Jupyter file with the rough analyses
+        ├── report.ipynb                Jupyter file with the final information and analyses
 
 ## Requirements
 In order to run the code it's necessary to:
