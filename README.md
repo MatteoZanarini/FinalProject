@@ -20,7 +20,7 @@ The approach for this analysis includes:
 ## Structure
 
     .
-    ├── README.md                       This file, whit the project information
+    ├── README.md                       This file, with the project information
     ├── requirements.txt                Packages to have loaded
     └── scripts
         ├── roughAnalyses.ipynb         Jupyter file with the rough analyses
