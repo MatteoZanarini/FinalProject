@@ -39,6 +39,8 @@ cd FinalProject
 pip install -r requirements.txt
 ```
 
+Interactive graphs were used, use an application for visualization and not GitHub Web.
+
 ## Authors
 Matteo Zanarini - 15158357
 
